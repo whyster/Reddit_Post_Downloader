@@ -1,0 +1,16 @@
+C:\Users\aleks\RiderProjects\RedditScraperSolution\RedditScraperProject\bin\Debug\RedditScraperProject.exe.config
+C:\Users\aleks\RiderProjects\RedditScraperSolution\RedditScraperProject\bin\Debug\RedditScraperProject.exe
+C:\Users\aleks\RiderProjects\RedditScraperSolution\RedditScraperProject\bin\Debug\RedditScraperProject.pdb
+C:\Users\aleks\RiderProjects\RedditScraperSolution\RedditScraperProject\obj\Debug\RedditScraperProject.csprojAssemblyReference.cache
+C:\Users\aleks\RiderProjects\RedditScraperSolution\RedditScraperProject\obj\Debug\RedditScraperProject.Properties.Resources.resources
+C:\Users\aleks\RiderProjects\RedditScraperSolution\RedditScraperProject\obj\Debug\RedditScraperProject.csproj.GenerateResource.cache
+C:\Users\aleks\RiderProjects\RedditScraperSolution\RedditScraperProject\obj\Debug\RedditScraperProject.csproj.CoreCompileInputs.cache
+C:\Users\aleks\RiderProjects\RedditScraperSolution\RedditScraperProject\obj\Debug\RedditScraperProject.exe
+C:\Users\aleks\RiderProjects\RedditScraperSolution\RedditScraperProject\obj\Debug\RedditScraperProject.pdb
+C:\Users\aleks\RiderProjects\RedditScraperSolution\RedditScraperProject\bin\Debug\HtmlAgilityPack.dll
+C:\Users\aleks\RiderProjects\RedditScraperSolution\RedditScraperProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aleks\RiderProjects\RedditScraperSolution\RedditScraperProject\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\aleks\RiderProjects\RedditScraperSolution\RedditScraperProject\bin\Debug\HtmlAgilityPack.xml
+C:\Users\aleks\RiderProjects\RedditScraperSolution\RedditScraperProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aleks\RiderProjects\RedditScraperSolution\RedditScraperProject\obj\Debug\RedditScraperProject.Form1.resources
+C:\Users\aleks\RiderProjects\RedditScraperSolution\RedditScraperProject\obj\Debug\RedditScraperProject.csproj.CopyComplete
